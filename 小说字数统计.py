@@ -1,9 +1,6 @@
 #!usr/bin/env python
 # coding:utf8
 
-# import importlib
-# import sys
-# importlib.reload(sys)
 import json
 
 fr = open('hlm.txt',encoding="utf-8")
